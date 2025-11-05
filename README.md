@@ -60,3 +60,15 @@ For College, Hackathon, and Workshop Submissions
 As a Personal Branding Website
 
 Overall, this portfolio website demonstrates my ability to work with core web technologies, structure information effectively, and design user-friendly interfaces. This task strengthened my knowledge in front-end development, improved my understanding of responsive design principles, and helped me learn how to present my profile in a professional and visually structured format.
+
+**OUTPUT:**
+
+<img width="1357" height="673" alt="Image" src="https://github.com/user-attachments/assets/8f72f6a9-6ce5-4600-b01b-c7ed4ebe6d6a" />
+
+<img width="897" height="258" alt="Image" src="https://github.com/user-attachments/assets/6619eb77-94f4-4b9a-8a77-f4b9bce7c951" />
+
+<img width="927" height="596" alt="Image" src="https://github.com/user-attachments/assets/f935343e-8079-41af-a2f6-eb82458d78ad" />
+
+<img width="1036" height="527" alt="Image" src="https://github.com/user-attachments/assets/a1f31486-7ea5-4c8f-a996-472a3ebae6ed" />
+
+<img width="951" height="343" alt="Image" src="https://github.com/user-attachments/assets/d78fcfcf-e910-42f9-bab4-4cb9b2c80c9c" />
