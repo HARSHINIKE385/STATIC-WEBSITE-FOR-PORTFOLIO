@@ -1,0 +1,56 @@
+:root{
+  --bg:#0f1724;
+  --card:#10192d;
+  --text:#ffffff;
+  --muted:#b5c6d6;
+  --accent:#7bd5ff;
+}
+
+*{box-sizing:border-box;font-family:'Times New Roman', serif;}
+
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  text-align:center;
+}
+
+.container{max-width:850px;margin:auto;padding:1rem;}
+
+.site-header{padding:1rem 0;}
+.header-inner{display:flex;justify-content:center;gap:2rem;align-items:center;}
+.logo{color:var(--accent);font-size:1.8rem;text-decoration:none;font-weight:bold;}
+.nav a{color:var(--accent);margin:0 0.8rem;text-decoration:none;font-weight:bold;}
+
+.hero{padding:3.5rem 0;}
+.accent{color:var(--accent);}
+.btn{padding:0.7rem 1.3rem;border:2px solid var(--accent);border-radius:8px;color:var(--accent);text-decoration:none;font-weight:bold;}
+
+.card{background:var(--card);padding:2rem;border-radius:12px;margin:2rem auto;}
+
+.skills-grid{
+  display:flex;flex-wrap:wrap;justify-content:center;gap:0.7rem;list-style:none;padding:0;margin:0;
+}
+.skills-grid li{
+  background:rgba(255,255,255,0.1);
+  padding:0.6rem 1rem;
+  border-radius:6px;
+}
+
+.projects-grid, .cert-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:1rem;
+}
+
+.project, .cert-card{
+  background:rgba(255,255,255,0.1);
+  padding:1.2rem;
+  border-radius:10px;
+}
+
+.site-footer{padding:1rem 0;color:var(--muted);}
+
+@media(max-width:700px){
+  .projects-grid, .cert-grid{grid-template-columns:1fr;}
+}
