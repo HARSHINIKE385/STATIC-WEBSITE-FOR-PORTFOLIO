@@ -63,12 +63,12 @@ Overall, this portfolio website demonstrates my ability to work with core web te
 
 **OUTPUT:**
 
-<img width="1357" height="673" alt="Image" src="https://github.com/user-attachments/assets/8f72f6a9-6ce5-4600-b01b-c7ed4ebe6d6a" />
+<img width="1353" height="453" alt="Image" src="https://github.com/user-attachments/assets/cc56be34-b424-4161-ac7a-7b4edecb6f82" />
 
-<img width="897" height="258" alt="Image" src="https://github.com/user-attachments/assets/6619eb77-94f4-4b9a-8a77-f4b9bce7c951" />
+<img width="1342" height="528" alt="Image" src="https://github.com/user-attachments/assets/628c6482-ae71-48eb-8740-2423e0ddd556" />
 
-<img width="927" height="596" alt="Image" src="https://github.com/user-attachments/assets/f935343e-8079-41af-a2f6-eb82458d78ad" />
+<img width="1351" height="606" alt="Image" src="https://github.com/user-attachments/assets/6ef1062a-9e0e-48ff-bd9f-2105ff5166f5" />
 
-<img width="1036" height="527" alt="Image" src="https://github.com/user-attachments/assets/a1f31486-7ea5-4c8f-a996-472a3ebae6ed" />
+<img width="1351" height="530" alt="Image" src="https://github.com/user-attachments/assets/42e5d7a8-de11-40d6-a03f-ce82181c9a5e" />
 
-<img width="951" height="343" alt="Image" src="https://github.com/user-attachments/assets/d78fcfcf-e910-42f9-bab4-4cb9b2c80c9c" />
+<img width="1349" height="363" alt="Image" src="https://github.com/user-attachments/assets/ebe527e7-b798-4ca9-a1e3-def655994dbb" />
